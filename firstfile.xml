@@ -44,3 +44,6 @@ Content-Length: 200
 </requestHeader>
   <method class="java.lang.String">POST</method>
 </httpSample>
+
+---
+добавленная строка
